@@ -1,0 +1,14 @@
+# Requirements for Data Engineering and ETL
+
+pandas
+numpy
+scikit-learn
+sqlalchemy
+requests
+pyodbc
+apache-airflow
+boto3
+pytest
+jupyter
+fsspec
+azure-storage-blob
